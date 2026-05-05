@@ -4,6 +4,8 @@
 
 PawCoach is a multimodal AI platform that democratizes professional-quality dog training. It addresses a clear market gap: while nearly **67% of dog owners** attempt self-training, approximately **40% give up within three months** — primarily due to lack of expert feedback and inability to understand their dog's emotional state.
 
+Video link📹: 
+
 ---
 
 ## ✨ Features
